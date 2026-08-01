@@ -10,7 +10,7 @@
 
 **Email ID:** asher.23bce11159@vitbhopal.ac.in
 
-**Render Deployment URL:** [https://mponline-assignment-10-zqlt.onrender.com](https://mponline-assignment-10-zqlt.onrender.com)
+**Render Deployment URL:** [https://heart-disease-api-asher.onrender.com](https://heart-disease-api-asher.onrender.com)
 
 ---
 
@@ -62,7 +62,7 @@ Heart-Disease-Deployment/
 
 ### Root Health Check Endpoint
 
-- **URL:** `GET https://mponline-assignment-10-zqlt.onrender.com/`
+- **URL:** `GET https://heart-disease-api-asher.onrender.com/`
 
 **Response:**
 
@@ -77,7 +77,7 @@ Heart-Disease-Deployment/
 
 ### Prediction Endpoint
 
-- **URL:** `POST https://mponline-assignment-10-zqlt.onrender.com/predict`
+- **URL:** `POST https://heart-disease-api-asher.onrender.com/predict`
 - **Headers:** `Content-Type: application/json`
 
 #### Example Input Payload
